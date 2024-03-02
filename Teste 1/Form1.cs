@@ -19,7 +19,8 @@ namespace Teste_1
 
         private void btnSair_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            //Application.Exit();
+            btnSair.BackColor = System.Drawing.Color.IndianRed;
         }
     }
 }

@@ -20,7 +20,7 @@ namespace Teste_1
         private void btnSair_Click(object sender, EventArgs e)
         {
             //Application.Exit();
-            btnSair.BackColor = System.Drawing.Color.DarkOrchid;
+            btnSair.BackColor = System.Drawing.Color.Azure;
         }
     }
 }
